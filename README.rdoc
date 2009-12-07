@@ -1,0 +1,7 @@
+= TerrorPak
+
+* http://terrorpak.nomad-labs.dyndns.org
+
+== DESCRIPTION
+
+TerrorPak is an attempt to visualize the recent deadly string of terror attacks in Pakistan on a timeline and a map.
