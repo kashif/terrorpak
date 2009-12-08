@@ -5,3 +5,8 @@
 == DESCRIPTION
 
 TerrorPak is an attempt to visualize the recent deadly string of terror attacks in Pakistan on a timeline and a map.
+
+== LICENSE
+
+The MIT License
+Copyright (c) 2009 Kashif Rasul
