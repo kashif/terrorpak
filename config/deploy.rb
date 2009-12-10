@@ -1,5 +1,5 @@
 set :application, "terrorpak"
-set :repository,  "git://github.com/kashif/terrorpak.git"
+set :repository,  "git@github.com:kashif/terrorpak.git"
 set :deploy_to,   "/data/kashif/#{application}"
 
 set :scm, :git
